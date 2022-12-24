@@ -1,0 +1,5 @@
+Flask-APScheduler==1.12.4
+Flask
+py-xmltv==1.0.8
+requests
+PyExecJS
